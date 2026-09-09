@@ -1,144 +1,160 @@
 [[CLAPHost]]
 arch = "aarch64"
-git-tree-sha1 = "17a3b2384662e0362c975902d3770e07d596a001"
+git-tree-sha1 = "469024d15e3b50fb6c5befac5699948367507ca2"
 os = "macos"
 
     [[CLAPHost.download]]
-    sha256 = "e3db71dc32dd4d46d8982b5246fc50404c91b548882d88d7b26b696a827d15b9"
-    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.0+0/CLAPHost.v1.0.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "55dd9c1e38479d9e3ceb39e5fcb4497a87d21e7b77cf3cf1ea3876854322c81e"
+    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.1+0/CLAPHost.v1.0.1.aarch64-apple-darwin.tar.gz"
 [[CLAPHost]]
 arch = "aarch64"
-git-tree-sha1 = "b37b0330fdf3678e0a2b3f4400686c9253872bad"
+git-tree-sha1 = "fbc1e8acb0c6da6ab6db484778be3af81c20049b"
 libc = "glibc"
 os = "linux"
 
     [[CLAPHost.download]]
-    sha256 = "ec6046b967028877f49f7f856c0188cee0b0ffa9a9e0bfa790b7d9b1ca55a046"
-    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.0+0/CLAPHost.v1.0.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "fed178d349ded9fcc1200556c06643ce38778cd4db84d0d1983b4ba7de5701ec"
+    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.1+0/CLAPHost.v1.0.1.aarch64-linux-gnu.tar.gz"
 [[CLAPHost]]
 arch = "aarch64"
-git-tree-sha1 = "3f1558bcddb484f854057cadee8f14e612c5d87c"
+git-tree-sha1 = "9af85894d361cb4d8c3553824eb08d5f638a321c"
 libc = "musl"
 os = "linux"
 
     [[CLAPHost.download]]
-    sha256 = "f8d7110d56c737c9d005cd3bdaa9869c92fb3d5b7b133dcb691193ded91d8071"
-    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.0+0/CLAPHost.v1.0.0.aarch64-linux-musl.tar.gz"
+    sha256 = "ede4b4895a0dccf524d72f3607590e201bc599864b92d76293b6280823454be9"
+    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.1+0/CLAPHost.v1.0.1.aarch64-linux-musl.tar.gz"
 [[CLAPHost]]
 arch = "aarch64"
-git-tree-sha1 = "8a8f4c7c21d3ad76b3191da85a26153dcf368cb1"
+git-tree-sha1 = "e54a8f7de2f07e92158db125c4d08db6805817a7"
 os = "freebsd"
 
     [[CLAPHost.download]]
-    sha256 = "4cd2f32c8e06628c9c2f566229fcb14c18d0a18bd3a90e20ddcd8d1f1172cc0c"
-    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.0+0/CLAPHost.v1.0.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "393d75d8110d5c9449f50ec8260a47a53be1ecd71b57ba1700bc5048eeb047d0"
+    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.1+0/CLAPHost.v1.0.1.aarch64-unknown-freebsd.tar.gz"
 [[CLAPHost]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "1bd6f46d73241700fcf9396d8e75a999662a25d8"
+git-tree-sha1 = "32aa6459b5877fbe9e8ebd956037635eb736b37a"
 libc = "glibc"
 os = "linux"
 
     [[CLAPHost.download]]
-    sha256 = "50466ea8b5f2c6c1f35758ee5743d894a0ba732215fe8f67961dfc7de62c3663"
-    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.0+0/CLAPHost.v1.0.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "5a8c6f6578209f6eee5dda0c8a27db3eaa7bdfc8355824e355bf47a6efc9cb0c"
+    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.1+0/CLAPHost.v1.0.1.armv6l-linux-gnueabihf.tar.gz"
 [[CLAPHost]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "9da4b3280256d95b78c5d3faa0befd7b380ced81"
+git-tree-sha1 = "0c30c5854c5fcb4e9cb5e8e8629da977d4f4261c"
 libc = "musl"
 os = "linux"
 
     [[CLAPHost.download]]
-    sha256 = "5486e2b600b28548f120d4d095e501aba17dc628b8b8320f89765c6c2b69d74a"
-    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.0+0/CLAPHost.v1.0.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "3be19287e8322a96d6aadc811a4fbdd6bfaf4ce436f3a220e9301eccf6803aad"
+    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.1+0/CLAPHost.v1.0.1.armv6l-linux-musleabihf.tar.gz"
 [[CLAPHost]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "5f9230123e57d958165772f21436fbc51e9fc295"
+git-tree-sha1 = "3dbaaf355561fca0524455c8d2d782ad41e88053"
 libc = "glibc"
 os = "linux"
 
     [[CLAPHost.download]]
-    sha256 = "65d73f7ec84a940256268453a176c28ae06069d0b7b88d23750a1d77fe926142"
-    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.0+0/CLAPHost.v1.0.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "799362157ee01a17654dd8ef111cd1a74912362d39557b0df661abefe84feab8"
+    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.1+0/CLAPHost.v1.0.1.armv7l-linux-gnueabihf.tar.gz"
 [[CLAPHost]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "08a155b9103752e97cfb37bdd991dbb168fd8e3d"
+git-tree-sha1 = "892eceb2839093220bd882e86f737ba70d3e6543"
 libc = "musl"
 os = "linux"
 
     [[CLAPHost.download]]
-    sha256 = "a7d1bc44b82c0a970c84091443cba5ee9fbe4f3bba7f25fdd3e308c814672739"
-    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.0+0/CLAPHost.v1.0.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "9223e54395314519b41a7a739c293e8e418188f31b32074987d5033d1c68e23f"
+    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.1+0/CLAPHost.v1.0.1.armv7l-linux-musleabihf.tar.gz"
 [[CLAPHost]]
 arch = "i686"
-git-tree-sha1 = "10f8b7fa779523b92da6d3ce1fd2337ffc102eed"
+git-tree-sha1 = "c432bc574049285a889f4487b7e766d16bc5c481"
 libc = "glibc"
 os = "linux"
 
     [[CLAPHost.download]]
-    sha256 = "6cde5d05666f6ebd9e8de175388a3a3ad5f375e14adf8fc1b33b4e5d85f0c52c"
-    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.0+0/CLAPHost.v1.0.0.i686-linux-gnu.tar.gz"
+    sha256 = "09689722ee018d99de8119a64ca7cf501ac7c315393c3d1e33a32c7929d6dbce"
+    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.1+0/CLAPHost.v1.0.1.i686-linux-gnu.tar.gz"
 [[CLAPHost]]
 arch = "i686"
-git-tree-sha1 = "acf73964a07e6290e100ee7207b87ac6d48c6479"
+git-tree-sha1 = "7ca9d40f28bcca37aed9e7eb51cc78589052a72e"
 libc = "musl"
 os = "linux"
 
     [[CLAPHost.download]]
-    sha256 = "15780755f9ad4edaee4ce07634005bcd1d442d15a07a57751ee172b769aa71de"
-    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.0+0/CLAPHost.v1.0.0.i686-linux-musl.tar.gz"
+    sha256 = "b9182adc95fe0131795e22efc4735d46c9aed95154f4ad31f9709f55a668c766"
+    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.1+0/CLAPHost.v1.0.1.i686-linux-musl.tar.gz"
+[[CLAPHost]]
+arch = "i686"
+git-tree-sha1 = "a51f920a0c5bd51d91c2625cbb722d419324a6c6"
+os = "windows"
+
+    [[CLAPHost.download]]
+    sha256 = "7abe3b7d3f7eb7eec3995f30dce25b258cb70bd682940f436f71fa65d18e4470"
+    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.1+0/CLAPHost.v1.0.1.i686-w64-mingw32.tar.gz"
 [[CLAPHost]]
 arch = "powerpc64le"
-git-tree-sha1 = "f548b295b36b48e9828fe0659d5e8fb2e45d8dba"
+git-tree-sha1 = "8701a5ce406054a45dc577e09340b79dfa759d2a"
 libc = "glibc"
 os = "linux"
 
     [[CLAPHost.download]]
-    sha256 = "1319c448cd2d69b3079e04e508ed3813db6ecae17c16c33bfede7d25f4b5b927"
-    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.0+0/CLAPHost.v1.0.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "733b3faf056d4c77fe3f0d7fb924928f7704f59f3b2646ad578333b3938a568c"
+    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.1+0/CLAPHost.v1.0.1.powerpc64le-linux-gnu.tar.gz"
 [[CLAPHost]]
 arch = "riscv64"
-git-tree-sha1 = "07960165d4060c62251988a7a0a0277820ace928"
+git-tree-sha1 = "1cf58a1a4ff6f7d1f4a67e20fddd43670afb51e9"
 libc = "glibc"
 os = "linux"
 
     [[CLAPHost.download]]
-    sha256 = "62fe9e0873cf5b29be7ef52f5c87e626fcb03a9c06b2e9e0830c4ffcc5b76766"
-    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.0+0/CLAPHost.v1.0.0.riscv64-linux-gnu.tar.gz"
+    sha256 = "17c308a35693825e846ce91a6d0185cb8f2cbbcc774c6800348f1f112793ecf2"
+    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.1+0/CLAPHost.v1.0.1.riscv64-linux-gnu.tar.gz"
 [[CLAPHost]]
 arch = "x86_64"
-git-tree-sha1 = "05e6f23c3ff3597feb289761b365522685ed1467"
+git-tree-sha1 = "4d87a937069a32884efb238b572264869154db9d"
 os = "macos"
 
     [[CLAPHost.download]]
-    sha256 = "b37645a06a6fb3d093d268678271bcebfeb9233b0f07772304d73a28219d0154"
-    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.0+0/CLAPHost.v1.0.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "d730b5411c0a7f8e290b9d5a84a403c06ce6c7f89dde4de31df6b1218d863cf1"
+    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.1+0/CLAPHost.v1.0.1.x86_64-apple-darwin.tar.gz"
 [[CLAPHost]]
 arch = "x86_64"
-git-tree-sha1 = "cb036c4a75c4b1ea926b8d80deef4a63f258374a"
+git-tree-sha1 = "6b8edc08b8c0b253acd52e3087d748e1a320895c"
 libc = "glibc"
 os = "linux"
 
     [[CLAPHost.download]]
-    sha256 = "51ec59c1fc21eb335abb0ad89e400853683c8dcae48a029fb6698850889f4c76"
-    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.0+0/CLAPHost.v1.0.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "e2b43aec4e2cc767f7f7566c739a5d59012ff81b770c2d2c67eef2a9886f2af1"
+    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.1+0/CLAPHost.v1.0.1.x86_64-linux-gnu.tar.gz"
 [[CLAPHost]]
 arch = "x86_64"
-git-tree-sha1 = "7858c062c3930cfae55273964bc2bee84acd9177"
+git-tree-sha1 = "b4d90fa46fa1326bd177ec053fbd5d3f1bf5c9a5"
 libc = "musl"
 os = "linux"
 
     [[CLAPHost.download]]
-    sha256 = "c7eca58ad0c6919607807d32be15b350b4fee0427a2ad05f3804af7beb61d5a1"
-    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.0+0/CLAPHost.v1.0.0.x86_64-linux-musl.tar.gz"
+    sha256 = "93d28b8b2afc93bbb50d883a1b253daf59242bf14ae218dcea5860161f18fa2b"
+    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.1+0/CLAPHost.v1.0.1.x86_64-linux-musl.tar.gz"
 [[CLAPHost]]
 arch = "x86_64"
-git-tree-sha1 = "6ed8d24c70911727ce9df6ae233c8e0bfd1ea1ac"
+git-tree-sha1 = "66b7988a7d0dfb71a0d79f988db3574b15415a6d"
 os = "freebsd"
 
     [[CLAPHost.download]]
-    sha256 = "e75f3e9ca94e4491c6c9c020d1f3e46dad8535f9cbd7182b5e4aba06b9074995"
-    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.0+0/CLAPHost.v1.0.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "bcf830df4a9ede36192af4834e5ca36ece48ca394e748570d39a7fbb96d80b20"
+    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.1+0/CLAPHost.v1.0.1.x86_64-unknown-freebsd.tar.gz"
+[[CLAPHost]]
+arch = "x86_64"
+git-tree-sha1 = "110edd38e2d2633c0c8a1a636f86ce7e32f8b8c0"
+os = "windows"
+
+    [[CLAPHost.download]]
+    sha256 = "f9c663cc2593f7b0e7048203e9f87d9d835f78cc6086205258003be60705edd9"
+    url = "https://github.com/JuliaBinaryWrappers/CLAPHost_jll.jl/releases/download/CLAPHost-v1.0.1+0/CLAPHost.v1.0.1.x86_64-w64-mingw32.tar.gz"
