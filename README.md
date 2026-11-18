@@ -1,4 +1,4 @@
-# `CLAPHost_jll.jl` (v1.3.0+0)
+# `CLAPHost_jll.jl` (v1.3.0+1)
 
 [![deps](https://juliahub.com/docs/CLAPHost_jll/deps.svg)](https://juliahub.com/ui/Packages/General/CLAPHost_jll/)
 
